@@ -10,5 +10,4 @@ JavaScript
 HTML
 CSS(Bootstrap v5.1)
 
-## Licence
-free use
+# <ins>Created for a school project 2022</ins>
